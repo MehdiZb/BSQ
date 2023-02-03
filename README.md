@@ -16,3 +16,7 @@ bsq [PATH_TO_THE_MAP]
 ![image](https://user-images.githubusercontent.com/44801448/216506047-79ea454d-01ac-4789-ab88-c0f393ef6653.png)
 
 Group project done with Hthomas
+
+# PROJECT GRADE
+
+![image](https://user-images.githubusercontent.com/44801448/216506605-7951089a-4c1e-450b-8442-873f92b35758.png)
