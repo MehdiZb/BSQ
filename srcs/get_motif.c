@@ -74,13 +74,11 @@ int	first_line_valid(int lines_length, int size_first_line, t_motif *motif,
 
 int	get_motif(char *str, t_motif *motif, t_square *size)
 {
-	int	i;
 	int	lines;
 	int	lines_length;
 	int	size_first_line;
 
 	size_first_line = size_line(str);
-	i = 0;
 	lines = my_atoi(str, size_first_line - 3);
 	if (size_first_line < 4 || lines == -1)
 		return (0);
